@@ -1,0 +1,60 @@
+
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: wheat;
+}
+.nav-link {
+    color: wheat;
+}
+.nav-link:hover {
+    color: wheat;
+}
+
+body {
+    background-color: black;
+    color: wheat;
+    overflow-x: hidden;
+}
+
+body {
+    /* background-attachment: cover; */
+    background-image: url(./image/destiny_2_lightfall_lp_tile_d_hero.png__1320x1320_crop-scale_optimize_subsampling-2.webp);
+    background-repeat: no-repeat;
+    background-position:0 15vh;
+    /* background-position:center top; */
+}
+
+.logo-img {
+    width: 100px;
+}
+
+
+
+/* Section */
+
+.section-outer {
+    height: 500px;
+}
+
+.section-inner {
+    display: flex;
+    /* gap: 7px; */
+    justify-content: space-between;
+    margin: 100px 10px;
+}
+
+.section-inner img {
+    width: 420px;
+}
+
+
+
+/* Hover */
+
+
